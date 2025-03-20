@@ -1,0 +1,30 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:128.0) Gecko/20100101 Firefox/128.0" version="26.1.0">
+  <diagram name="Seite-1" id="QQh7A7ywj2qr_WjyTj6r">
+    <mxGraphModel dx="1767" dy="1093" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="nT4UFkXjxDNL2Gfwp7zb-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="30" y="450" as="sourcePoint" />
+            <mxPoint x="90" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="&lt;strong&gt;&lt;img class=&quot;confluence-embedded-image confluence-external-resource&quot; height=&quot;250&quot; src=&quot;https://imgr.whimsical.com/object/DRBjVVy29hihsCPEgG5xUx&quot; data-image-src=&quot;https://imgr.whimsical.com/object/DRBjVVy29hihsCPEgG5xUx&quot;&gt;&lt;/strong&gt;" link="&lt;strong&gt;&lt;img class=&quot;confluence-embedded-image confluence-external-resource&quot; height=&quot;250&quot; src=&quot;https://imgr.whimsical.com/object/DRBjVVy29hihsCPEgG5xUx&quot; data-image-src=&quot;https://imgr.whimsical.com/object/DRBjVVy29hihsCPEgG5xUx&quot;&gt;&lt;/strong&gt;" id="ljx_BIbi2sATLgqZ-HCD-1">
+          <mxCell style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="210" y="160" width="30" height="280" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="ljx_BIbi2sATLgqZ-HCD-8" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;fillColor=#3FFFDF;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="390" as="sourcePoint" />
+            <mxPoint x="320" y="240" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="340" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
